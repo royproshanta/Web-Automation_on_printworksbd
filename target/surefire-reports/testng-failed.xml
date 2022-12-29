@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="tests.OrderBook">
+        <methods>
+          <include name="startUrl"/>
+          <include name="close"/>
+          <include name="start"/>
+          <include name="clickOnCheckOut"/>
+          <include name="addToCart"/>
+          <include name="hoverOnBangla"/>
+          <include name="clickOnUpponash"/>
+          <include name="afterClass"/>
+          <include name="selectNextPage"/>
+          <include name="hoverOnCartIcon"/>
+        </methods>
+      </class> <!-- tests.OrderBook -->
+      <class name="tests.ProvideBellingDetails">
+        <methods>
+          <include name="fillEmail"/>
+          <include name="start"/>
+          <include name="startUrl"/>
+          <include name="clickOnCheckBox"/>
+          <include name="afterClass"/>
+          <include name="fillPhoneNumber"/>
+          <include name="fillAddress"/>
+          <include name="clickOnCountry"/>
+          <include name="fillAddress2"/>
+          <include name="fillName"/>
+          <include name="close"/>
+          <include name="fillPostcode"/>
+          <include name="selectCountry"/>
+          <include name="fillLastName"/>
+          <include name="fillDiscountCode"/>
+          <include name="fillOrderNotes"/>
+        </methods>
+      </class> <!-- tests.ProvideBellingDetails -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

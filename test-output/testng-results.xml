@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="20" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-07T00:21:07 BDT" name="Suite" finished-at="2022-10-07T00:22:21 BDT" duration-ms="74029">
+    <groups>
+    </groups>
+    <test started-at="2022-10-07T00:21:07 BDT" name="Test" finished-at="2022-10-07T00:22:21 BDT" duration-ms="74029">
+      <class name="tests.OrderBook">
+        <test-method is-config="true" signature="start()[pri:0, instance:tests.OrderBook@222a59e6]" started-at="2022-10-07T00:21:03 BDT" name="start" finished-at="2022-10-07T00:21:07 BDT" duration-ms="4430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="startUrl()[pri:0, instance:tests.OrderBook@222a59e6]" started-at="2022-10-07T00:21:07 BDT" name="startUrl" finished-at="2022-10-07T00:21:21 BDT" duration-ms="13264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUrl -->
+        <test-method signature="hoverOnBangla()[pri:0, instance:tests.OrderBook@222a59e6]" started-at="2022-10-07T00:21:21 BDT" name="hoverOnBangla" finished-at="2022-10-07T00:21:25 BDT" duration-ms="4385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hoverOnBangla -->
+        <test-method signature="clickOnUpponash()[pri:1, instance:tests.OrderBook@222a59e6]" started-at="2022-10-07T00:21:25 BDT" name="clickOnUpponash" finished-at="2022-10-07T00:21:29 BDT" duration-ms="4211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnUpponash -->
+        <test-method signature="selectNextPage()[pri:2, instance:tests.OrderBook@222a59e6]" started-at="2022-10-07T00:21:29 BDT" name="selectNextPage" finished-at="2022-10-07T00:21:34 BDT" duration-ms="4767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectNextPage -->
+        <test-method signature="addToCart()[pri:3, instance:tests.OrderBook@222a59e6]" started-at="2022-10-07T00:21:34 BDT" name="addToCart" finished-at="2022-10-07T00:21:56 BDT" duration-ms="21542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method signature="hoverOnCartIcon()[pri:4, instance:tests.OrderBook@222a59e6]" started-at="2022-10-07T00:21:56 BDT" name="hoverOnCartIcon" finished-at="2022-10-07T00:22:01 BDT" duration-ms="5522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hoverOnCartIcon -->
+        <test-method signature="clickOnCheckOut()[pri:5, instance:tests.OrderBook@222a59e6]" started-at="2022-10-07T00:22:01 BDT" name="clickOnCheckOut" finished-at="2022-10-07T00:22:07 BDT" duration-ms="5976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCheckOut -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.OrderBook@222a59e6]" started-at="2022-10-07T00:22:07 BDT" name="afterClass" finished-at="2022-10-07T00:22:08 BDT" duration-ms="571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="close()[pri:0, instance:tests.OrderBook@222a59e6]" started-at="2022-10-07T00:22:21 BDT" name="close" finished-at="2022-10-07T00:22:22 BDT" duration-ms="317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tests.OrderBook -->
+      <class name="tests.ProvideBellingDetails">
+        <test-method is-config="true" signature="startUrl()[pri:0, instance:tests.ProvideBellingDetails@536dbea0]" started-at="2022-10-07T00:22:08 BDT" name="startUrl" finished-at="2022-10-07T00:22:08 BDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUrl -->
+        <test-method signature="fillDiscountCode()[pri:0, instance:tests.ProvideBellingDetails@536dbea0]" started-at="2022-10-07T00:22:08 BDT" name="fillDiscountCode" finished-at="2022-10-07T00:22:08 BDT" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillDiscountCode -->
+        <test-method signature="fillName()[pri:1, instance:tests.ProvideBellingDetails@536dbea0]" started-at="2022-10-07T00:22:08 BDT" name="fillName" finished-at="2022-10-07T00:22:08 BDT" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillName -->
+        <test-method signature="fillLastName()[pri:2, instance:tests.ProvideBellingDetails@536dbea0]" started-at="2022-10-07T00:22:08 BDT" name="fillLastName" finished-at="2022-10-07T00:22:08 BDT" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillLastName -->
+        <test-method signature="clickOnCountry()[pri:3, instance:tests.ProvideBellingDetails@536dbea0]" started-at="2022-10-07T00:22:08 BDT" name="clickOnCountry" finished-at="2022-10-07T00:22:08 BDT" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCountry -->
+        <test-method signature="selectCountry()[pri:4, instance:tests.ProvideBellingDetails@536dbea0]" started-at="2022-10-07T00:22:08 BDT" name="selectCountry" finished-at="2022-10-07T00:22:09 BDT" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCountry -->
+        <test-method signature="fillAddress()[pri:5, instance:tests.ProvideBellingDetails@536dbea0]" started-at="2022-10-07T00:22:09 BDT" name="fillAddress" finished-at="2022-10-07T00:22:09 BDT" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillAddress -->
+        <test-method signature="fillAddress2()[pri:6, instance:tests.ProvideBellingDetails@536dbea0]" started-at="2022-10-07T00:22:09 BDT" name="fillAddress2" finished-at="2022-10-07T00:22:09 BDT" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillAddress2 -->
+        <test-method signature="fillPostcode()[pri:7, instance:tests.ProvideBellingDetails@536dbea0]" started-at="2022-10-07T00:22:09 BDT" name="fillPostcode" finished-at="2022-10-07T00:22:09 BDT" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillPostcode -->
+        <test-method signature="fillPhoneNumber()[pri:8, instance:tests.ProvideBellingDetails@536dbea0]" started-at="2022-10-07T00:22:09 BDT" name="fillPhoneNumber" finished-at="2022-10-07T00:22:09 BDT" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillPhoneNumber -->
+        <test-method signature="fillEmail()[pri:9, instance:tests.ProvideBellingDetails@536dbea0]" started-at="2022-10-07T00:22:09 BDT" name="fillEmail" finished-at="2022-10-07T00:22:10 BDT" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillEmail -->
+        <test-method signature="fillOrderNotes()[pri:10, instance:tests.ProvideBellingDetails@536dbea0]" started-at="2022-10-07T00:22:10 BDT" name="fillOrderNotes" finished-at="2022-10-07T00:22:17 BDT" duration-ms="7262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillOrderNotes -->
+        <test-method signature="clickOnCheckBox()[pri:11, instance:tests.ProvideBellingDetails@536dbea0]" started-at="2022-10-07T00:22:17 BDT" name="clickOnCheckBox" finished-at="2022-10-07T00:22:21 BDT" duration-ms="4340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCheckBox -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.ProvideBellingDetails@536dbea0]" started-at="2022-10-07T00:22:21 BDT" name="afterClass" finished-at="2022-10-07T00:22:21 BDT" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.ProvideBellingDetails -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
